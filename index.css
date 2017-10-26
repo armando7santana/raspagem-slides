@@ -99,6 +99,10 @@ a.ref {
   font-size: 90px;
 }
 
+#useful-tools {
+  font-size: 48px;
+}
+
 .slide::after {
   content: unset;
 }
